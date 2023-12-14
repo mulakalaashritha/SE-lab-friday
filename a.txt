@@ -1,0 +1,1 @@
+In molecular biology, STRING is a biological database and web resource of known and predicted protein–protein interactions. The STRING database contains information from numerous sources, including experimental data, computational prediction methods and public text collections
